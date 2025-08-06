@@ -1,4 +1,5 @@
 在vivado的testbench当中加
+
 initial begin
 
 $dumpfile("wavechech.vcd");
