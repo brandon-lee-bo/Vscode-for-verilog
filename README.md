@@ -1,4 +1,4 @@
-在vivado当中加
+在vivado的testbench当中加
 
 $dumpfile("wavechech.vcd");
 
